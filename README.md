@@ -10,3 +10,8 @@ To use this project run
 2. To captuare the image press 'Q'.
 3. Run the invisible_clock.py
 4 After sucessfull execution clock will open with live webcam show the RED colored cloth .
+# Features
+MORPH_CLOSE removes unnecessary black noise from the white region in the mask. And how much noise to remove that is defined by kernel size.
+cv2.MORPH_OPEN removes unnecessary white noise from the black region.
+cv2.dilate increases white region in the image.
+
