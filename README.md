@@ -8,4 +8,5 @@
 To use this project run
 1. Frist run the background.py file 
 2. To captuare the image press 'Q'.
-3. Run the 
+3. Run the invisible_clock.py
+4 After sucessfull execution clock will open with live webcam show the RED colored cloth .
