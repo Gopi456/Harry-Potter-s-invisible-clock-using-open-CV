@@ -18,7 +18,7 @@ To use this project run
 3.cv2.MORPH_OPEN removes unnecessary white noise from the black region.
 4.cv2.dilate increases white region in the image.
 # About Me
-I'm a full stack developer...
+I'm a  python coder...
 
 # Installation
 Install my-project with the github source code option
