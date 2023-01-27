@@ -35,4 +35,26 @@ Back ground capture
 
 ![image](https://user-images.githubusercontent.com/109288410/215035875-b0c4ab51-904d-43c1-9d7c-8cfd00981b1a.png)
 
+# Tech Stack
+Server: Python and its libraries,computer vision,Machine learning
+
+Client: GUI (interface),Tkinter
+ # Requirments
+[ 3.4 SYSTEM REQUIREMENT ]
+
+# 	Software Requirements Platform: 
+
+    1.	Operating System: Windows OS 
+
+    2.	Platform: Android Studio / visual studio code
+
+    3.	Programming Language: PYTHON 
+
+# 	Hardware Requirements 
+
+    1.	Processor:  INTEL Pentium 4 Processor Core 
+
+    2.	 Hard Disk: 40 GB (min) 
+
+    3.	RAM: 256 MB or higher 
 
