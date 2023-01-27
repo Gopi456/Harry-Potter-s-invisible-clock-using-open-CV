@@ -3,3 +3,9 @@
  
 # Developer
 @ Gopi456
+# Demo
+# Deployment
+To use this project run
+1. Frist run the background.py file 
+2. To captuare the image press 'Q'.
+3. Run the 
