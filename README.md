@@ -26,3 +26,8 @@ Install my-project with the github source code option
   install required libraries from requirments.txt
 # Screenshots
 ![image](https://user-images.githubusercontent.com/109288410/215035416-6fdb581d-f361-4cf9-b021-047ae82e8298.png)
+Back ground capture
+![image](https://user-images.githubusercontent.com/109288410/215035756-54741f6d-2afa-4502-9fee-0c286d5898df.png)
+![image](https://user-images.githubusercontent.com/109288410/215035875-b0c4ab51-904d-43c1-9d7c-8cfd00981b1a.png)
+
+
